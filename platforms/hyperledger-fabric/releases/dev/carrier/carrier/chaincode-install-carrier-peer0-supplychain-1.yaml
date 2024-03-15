@@ -52,7 +52,7 @@ spec:
       maindirectory: cmd
       repository:
         hostname: "github.com"
-        git_username: "github_username"
+        git_username: "alexsdsr"
         url: github.com/alexsdsr/bevel-samples.git
         branch: main
         path: examples/supplychain-app/fabric/chaincode_rest_server/chaincode/
